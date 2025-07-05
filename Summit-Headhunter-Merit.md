@@ -11,6 +11,7 @@ While in Summit
 - Named Black Tusk Neutralized /25
 </br>
 </br>
+
 ---
 
 <h2>Bug Report</h2>

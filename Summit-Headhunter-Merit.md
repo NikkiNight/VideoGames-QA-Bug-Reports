@@ -4,6 +4,6 @@
 
 
 
-<img src="Media/Summit-Headhunter-Merit-Commendation.png" width="800">
+<img src="Media/Summit-Headhunter-Merit-Commendation.png" width="800" alt="Summit Headhunter Merit Commendation">
 
 

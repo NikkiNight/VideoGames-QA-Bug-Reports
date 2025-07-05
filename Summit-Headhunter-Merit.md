@@ -1,5 +1,5 @@
 # Summit Headhunter Merit
-<img align="right" src="Media/Summit-Headhunter-Merit-Commendation-Desc.png" alt="Image of the Requirements of the Summit Headhunter Merit" width="400">
+<img align="right, 400px" src="Media/Summit-Headhunter-Merit-Commendation-Desc.png" alt="Image of the Requirements of the Summit Headhunter Merit" width="400">
 
 ## Requirements
 While in Summit
@@ -12,6 +12,7 @@ While in Summit
 
 <br />
 <br />
+
 ---
 
 ## Bug Report

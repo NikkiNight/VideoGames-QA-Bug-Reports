@@ -11,12 +11,18 @@ While in Summit
 - Named Black Tusk Neutralized /25
 
 
+
 ---
 
 ## Bug Report
 
-<li>"Named True Sons neutralized" is not tracking correctly.</li></br >
-<li>Killing Cleaners increases both the Cleaners and True Sons counters.</li>
+- "Named True Sons neutralized" is not tracking correctly.
+- Killing Cleaners increases both the Cleaners and True Sons counters.
+
+## Steps to Reproduce
+1. Enter Summit on any difficulty.
+2. Locate and neutralize a named Cleaner enemy.
+3. Observe the increment in both objectives.
 
 ## Evidence
 

@@ -30,9 +30,9 @@ While in Summit
 
 ## Evidence
 
-![Alt Text](https://drive.google.com/file/d/1v6TfY66cSS4DOpI_OY1qV6-5kwvg0WKW/preview)
+//Insert video True Sons
 
-//Insert video Cleaners
+<a href="https://drive.google.com/file/d/1v6TfY66cSS4DOpI_OY1qV6-5kwvg0WKW/preview">Named Cleaners kill increments both Named True Sons and Cleaners tracker (Google Drive)</a>
 
 ## Why is this issue important?
 - From a player standpoint, it's frustrating when following the commendations instructions and not receive the intended result. This leads to confusion, wasted effort, and a diminished sense of reward. This may prompt the player to take unnecesary steps to resolve the issue.

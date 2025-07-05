@@ -30,9 +30,9 @@ While in Summit
 
 ## Evidence
 
-//Insert video True Sons
+<a href="https://drive.google.com/file/d/17FZrmgQj2GzDi7yRt9btouhwOsrHsG6f/preview">Named True Sons kill does not increase Named True Sons tracker (Google Drive)</a>
 
-<a href="https://drive.google.com/file/d/1v6TfY66cSS4DOpI_OY1qV6-5kwvg0WKW/preview" target="_new">Named Cleaners kill increments both Named True Sons and Cleaners tracker (Google Drive)</a>
+<a href="https://drive.google.com/file/d/1v6TfY66cSS4DOpI_OY1qV6-5kwvg0WKW/preview">Named Cleaners kill increments both Named True Sons and Cleaners tracker (Google Drive)</a>
 
 ## Why is this issue important?
 - From a player standpoint, it's frustrating when following the commendations instructions and not receive the intended result. This leads to confusion, wasted effort, and a diminished sense of reward. This may prompt the player to take unnecesary steps to resolve the issue.

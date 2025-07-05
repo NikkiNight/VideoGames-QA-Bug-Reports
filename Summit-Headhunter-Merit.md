@@ -10,7 +10,8 @@ While in Summit
 - Named Outcast Neutralized /25
 - Named Black Tusk Neutralized /25
 
-<br>
+<br />
+<br />
 ---
 
 ## Bug Report

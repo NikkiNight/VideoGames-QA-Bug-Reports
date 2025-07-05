@@ -18,3 +18,9 @@ While in Summit
 <li>Killing Cleaners increases both the Cleaners and True Sons counters.</li>
 
 <h2>Evidence</h2>
+
+//Insert video True Sons 1
+//Insert video True Sons 2
+
+//Insert video Cleaners 1
+//Insert video Cleaners 2

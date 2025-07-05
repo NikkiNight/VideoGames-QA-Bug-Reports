@@ -30,4 +30,4 @@ While in Summit
   </iframe>
 </div>
 
-[![Cleaners](Image URL)](https://1drv.ms/v/c/eef57c6b5047efb9/EQlneCekJP1JgTHFgxJOYlIBxS0K5ALnctOfIFBgiMmxlA?e=rsaFUm)
+[![Cleaners](https://1drv.ms/v/c/eef57c6b5047efb9/EQlneCekJP1JgTHFgxJOYlIBxS0K5ALnctOfIFBgiMmxlA?e=rsaFUm)](https://1drv.ms/v/c/eef57c6b5047efb9/EQlneCekJP1JgTHFgxJOYlIBxS0K5ALnctOfIFBgiMmxlA?e=rsaFUm)]

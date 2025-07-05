@@ -1,15 +1,15 @@
-<img align="right" src="Media/Summit-Headhunter-Merit-Commendation.png" alt="Image of the Requirements of the Summit Headhunter Merit" width="600">
+<img align="center" src="Media/Summit-Headhunter-Merit-Commendation.png" alt="Image of the Requirements of the Summit Headhunter Merit" width="600">
 <h1>Summit Headhunter Merit</h1>
 
 <h2>Requirements</h2>
 
 While in Summit
-- Named Cleaners neutralized /25
-- Named Rikers neutralized /25
-- Named Hyenas neutralized /25
-- Named True Sons neutralized /25
-- Named Outcast neutralized /25
-- Named Black Tusk neutralized /25
+- Named Cleaners Neutralized /25
+- Named Rikers Neutralized /25
+- Named Hyenas Neutralized /25
+- Named True Sons Neutralized /25
+- Named Outcast Neutralized /25
+- Named Black Tusk Neutralized /25
 
 ---
 

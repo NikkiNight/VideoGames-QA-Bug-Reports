@@ -9,7 +9,8 @@ While in Summit
 - Named True Sons Neutralized /25
 - Named Outcast Neutralized /25
 - Named Black Tusk Neutralized /25
-
+</br>
+</br>
 ---
 
 <h2>Bug Report</h2>

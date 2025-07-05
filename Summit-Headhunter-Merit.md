@@ -30,7 +30,7 @@ While in Summit
 
 ## Evidence
 
-![Alt Text](https://drive.google.com/file/d/1v6TfY66cSS4DOpI_OY1qV6-5kwvg0WKW/view?usp=sharing)
+![Alt Text](https://drive.google.com/file/d/1v6TfY66cSS4DOpI_OY1qV6-5kwvg0WKW/view)
 
 //Insert video Cleaners
 

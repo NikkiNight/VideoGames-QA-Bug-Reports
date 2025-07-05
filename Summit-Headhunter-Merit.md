@@ -14,7 +14,7 @@ While in Summit
 
 <h2>Bug Report</h2>
 
-"Named True Sons neutralized" is not tracking correctly.< br/>
+"Named True Sons neutralized" is not tracking correctly. </br >
 Killing Cleaners increases both the Cleaners and True Sons counters.
 
 <h2>Evidence</h2>

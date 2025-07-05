@@ -1,4 +1,4 @@
-<img align="center" src="Media/Summit-Headhunter-Merit-Commendation.png" alt="Image of the Requirements of the Summit Headhunter Merit" width="600">
+<img align="right" src="Media/Summit-Headhunter-Merit-Commendation-Desc.png" alt="Image of the Requirements of the Summit Headhunter Merit">
 <h1>Summit Headhunter Merit</h1>
 
 <h2>Requirements</h2>

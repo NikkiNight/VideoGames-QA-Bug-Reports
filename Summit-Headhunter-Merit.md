@@ -13,3 +13,8 @@ While in Summit
 <img src="Media/Summit-Headhunter-Merit-Commendation.png" width="800" alt="Summit Headhunter Merit Commendation">
 
 <h2>Bug Report</h2>
+
+"Named True Sons neutralized" is not tracking correctly.
+Killing Cleaners increases both the Cleaners and True Sons counters.
+
+<h2>Evidence</h2>

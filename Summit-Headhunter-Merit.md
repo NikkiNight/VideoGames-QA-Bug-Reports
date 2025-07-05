@@ -1,3 +1,4 @@
 ## Summit-Headhunter-Merit
 
-![Alt Text](url)
+## Description & Img
+![Summit Headhunter Merit Commendation](Media/Summit-Headhunter-Merit-Commendation.png)

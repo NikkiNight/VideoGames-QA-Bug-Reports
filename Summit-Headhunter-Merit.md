@@ -10,6 +10,8 @@ While in Summit
 - Named Outcast neutralized /25
 - Named Black Tusk neutralized /25
 
+---
+
 <h2>Bug Report</h2>
 
 <li>"Named True Sons neutralized" is not tracking correctly.</li></br >

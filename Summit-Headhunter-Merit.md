@@ -1,5 +1,9 @@
 ## Summit-Headhunter-Merit
 
-## Description & Img
+## Description
 
-<img src="Media/Summit-Headhunter-Merit-Commendation.png" width="800">
+
+
+<img src="Media/Summit-Headhunter-Merit-Commendation.png" width="800" position="left">
+
+

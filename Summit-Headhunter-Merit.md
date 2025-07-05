@@ -2,4 +2,4 @@
 
 ## Description & Img
 
-<img src="Media/Summit-Headhunter-Merit-Commendation.png" width="400">
+<img src="Media/Summit-Headhunter-Merit-Commendation.png" width="800">

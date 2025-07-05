@@ -10,7 +10,7 @@ While in Summit
 - Named Outcast neutralized /25
 - Named Black Tusk neutralized /25
 
-<img src="Media/Summit-Headhunter-Merit-Commendation.png" width="800" alt="Summit Headhunter Merit Commendation">
+<img src="Media/Summit-Headhunter-Merit-Commendation.png" alt="Image of the Requirements of the Summit Headhunter Merit">
 
 <h2>Bug Report</h2>
 

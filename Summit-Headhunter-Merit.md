@@ -24,6 +24,8 @@ While in Summit
 //Insert video True Sons 1
 //Insert video True Sons 2
 
-<video width="420" height="315
-  src="https://1drv.ms/v/c/eef57c6b5047efb9/EQlneCekJP1JgTHFgxJOYlIBxS0K5ALnctOfIFBgiMmxlA?e=rsaFUm">
-</video>
+<div>
+  <iframe width="420" height="315
+    src="https://1drv.ms/v/c/eef57c6b5047efb9/EQlneCekJP1JgTHFgxJOYlIBxS0K5ALnctOfIFBgiMmxlA?e=rsaFUm">
+  </iframe>
+</div>

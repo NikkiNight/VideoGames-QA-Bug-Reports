@@ -1,6 +1,6 @@
-<h1>Summit Headhunter Merit</h1>
+<h1>Summit Headhunter Merit</h1><img align="right" src="Media/Summit-Headhunter-Merit-Commendation.png" alt="Image of the Requirements of the Summit Headhunter Merit" width="600">
 
-<h2>Requirements</h2><img align="right" src="Media/Summit-Headhunter-Merit-Commendation.png" alt="Image of the Requirements of the Summit Headhunter Merit" width="580">
+<h2>Requirements</h2>
 
 While in Summit
 - Named Cleaners neutralized /25

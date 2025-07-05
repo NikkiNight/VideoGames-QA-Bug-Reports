@@ -20,6 +20,9 @@ While in Summit
 - "Named True Sons neutralized" is not tracking correctly.
 - Killing Cleaners increases both the Cleaners and True Sons counters.
 
+- Bug Type: Commendation Tracking.
+- Affected Feature: Commendations.
+
 ## Steps to Reproduce
 1. Enter Summit on any difficulty.
 2. Locate and neutralize a named Cleaner enemy.
@@ -28,6 +31,9 @@ While in Summit
 ## Evidence
 
 //Insert video True Sons
+
 //Insert video Cleaners
 
-
+## Why is this issue important?
+- From a player standpoint, it's frustrating when following the commendations instructions and not receive the intended result. This leads to confusion, wasted effort, and a diminished sense of reward. This may prompt the player to take unnecesary steps to resolve the issue.
+- From a QA standpoint, it refelects inconsistencies in faction tagging, or backend tracking. This can lead to reduced player engagement and generate avoidable support tickets and negative feedback.

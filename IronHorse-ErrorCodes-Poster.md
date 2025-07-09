@@ -8,7 +8,7 @@
 - Affected Feature: None, immersion.
 
 ## Evidence
-<img src="Media/IronHorse-ErrorCode-Poster.png" alt="Image of the error codes poster" width="200">
+<img src="Media/IronHorse-ErrorCode-Poster.png" alt="Image of the error codes poster" width="300">
 
 ## Why is this issue important?
 - From a player standpoint, this typo reflects a lack of polish, which can impact immersion and perception of quality.

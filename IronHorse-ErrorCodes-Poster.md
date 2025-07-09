@@ -3,6 +3,7 @@
 ## Bug Report
 
 - Simple spelling error within the error codes poster found in the control room of the furnace encounter.
+  Error code CR#502 - Invalid answer from crusible.
 
 - Bug Type: Typo.
 - Affected Feature: None, immersion.

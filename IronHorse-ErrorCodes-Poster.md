@@ -9,6 +9,7 @@
 <br />
 - Bug Type: Typo.
 - Affected Feature: None, immersion.
+- 
 
 ## Evidence
 <img src="Media/IronHorse-ErrorCode-Poster.png" alt="Image of the error codes poster" width="300">

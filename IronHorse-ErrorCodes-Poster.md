@@ -7,9 +7,8 @@
   Error code CR#502 - Invalid answer from crusible.
 
 <br />
-- Bug Type: Typo.
+- Bug Type: Typo. <br />
 - Affected Feature: None, immersion.
-- 
 
 ## Evidence
 <img src="Media/IronHorse-ErrorCode-Poster.png" alt="Image of the error codes poster" width="300">

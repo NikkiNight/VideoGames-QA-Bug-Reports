@@ -6,6 +6,7 @@
   
   Error code CR#502 - Invalid answer from crusible.
 
+
 - Bug Type: Typo.
 - Affected Feature: None, immersion.
 

@@ -9,7 +9,7 @@
 - Affected Feature: None, immersion.
 
 ## Evidence
-<img src="NikkiNight/VideoGames-QA-Bug-Reports/Once Human/Media/Water-Flow-Bug.png" alt="Image of water flowing both directions" width="300">
+<img src="Media/Water-Flow-Bug.png" alt="Image of water flowing both directions" width="300">
 
 ## Why is this issue important?
 - From a player standpoint, this affects the immersion of the game.
@@ -18,4 +18,4 @@
 ## Ackowledgement from the Devs
 In-game mail recieved with compensation: 100 Mitsuko Marks & 1000 Starchrom.
 
-<img src="NikkiNight/VideoGames-QA-Bug-Reports/Once Human/Media/BugHunt-Compensation-Water-Flow-Bug.png" alt="Image of water flowing both directions" width="300">
+<img src="Media/BugHunt-Compensation-Water-Flow-Bug.png" alt="Image of water flowing both directions" width="300">

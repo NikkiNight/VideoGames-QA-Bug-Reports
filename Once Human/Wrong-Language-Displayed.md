@@ -6,7 +6,7 @@
 
 <br />
 - Platform: PC/Mobile. <br />
-- Affected Feature: None, immersion. <br />
+- Affected Feature: Story/Campaign Progression. <br />
 - Scenario: Deviation: Survive, Capture, Preserve.
 
 ## Evidence

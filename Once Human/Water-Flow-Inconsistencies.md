@@ -18,4 +18,4 @@
 ## Ackowledgement from the Devs
 In-game mail recieved with compensation: 100 Mitsuko Marks & 1000 Starchrom.
 
-<img src="Media/BugHunt-Compensation-Water-Flow-Bug.png" alt="Image of water flowing both directions" width="300">
+<img src="Media/BugHunt-Compensation-Water-Flow-Bug.png" alt="Image of in-game message from the Dev's" width="300">

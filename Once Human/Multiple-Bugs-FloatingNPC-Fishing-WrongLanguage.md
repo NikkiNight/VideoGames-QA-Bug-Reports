@@ -14,7 +14,7 @@
 
 ## Why is this issue important?
 - From a player standpoint, it affects immersion of the game and displays a lack of professional polish.
-- From a QA standpoint, showcases a lack of .
+- From a QA standpoint, breaks immersion. While not a gameplay blocker, it creates a noticeable visual inconsistency that reduces overall polish of the world environment.
 
 ---
 
@@ -31,8 +31,8 @@
 <a href="https://drive.google.com/drive/folders/1BWpcxLsgTxpddOk2D995gkzu37wIbeXB" alt="Video of fish appearing above the water">Video via Google Drive.</a>
 
 ## Why is this issue important?
-- From a player standpoint, breaks immersion and reflects poorly on the developers.
-- From a QA standpoint, 
+- From a player standpoint, breaks immersion, reflectly poorly on the games development.
+- From a QA standpoint, while not game breaking, it does affect immersion, player experience, and visual fidelity.
 
 ---
 
@@ -48,8 +48,8 @@
 <img src="URL" alt="Image of Zapamander's description inside a containment unit" width="300">
 
 ## Why is this issue important?
-- From a player standpoint, causes players to need to consult external sources to find what it means.
-- From a QA standpoint, it's an inconvience that can affect gameplay directly, leading players to consult external sources to find guidance.
+- From a player standpoint, causes them to need to consult external sources to find what it means.
+- From a QA standpoint, adds inconvient steps that players need to take to understand/play the game.
 
 ---
 

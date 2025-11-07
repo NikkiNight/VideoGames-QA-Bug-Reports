@@ -45,7 +45,7 @@
 - Affected Feature: Deviatations. <br />
 
 ## Evidence
-<img src="URL" alt="Image of Zapamander's description inside a containment unit" width="300">
+<img src="Media/Zapamander-Wrong-Language-Bug.png" alt="Image of Zapamander's description inside a containment unit" width="300">
 
 ## Why is this issue important?
 - From a player standpoint, causes them to need to consult external sources to find what it means.
